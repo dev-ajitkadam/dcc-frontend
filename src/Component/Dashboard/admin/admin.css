@@ -1,0 +1,78 @@
+/* dash css */
+.design-nav{
+    background-color: #FFBB00;
+    border-radius: 0 4px 0 4px;
+    -webkit-border-radius: 0 4px 0 4px;
+    -moz-border-radius: 0 4px 0 4px;
+    -ms-border-radius: 0 4px 0 4px;
+    -o-border-radius: 0 4px 0 4px;
+}
+/* add user css */
+.main-add{
+    padding: 0.5rem;
+
+}
+.form-main{
+    padding: 3rem;
+}
+
+/* Reports css */
+.report-main {
+   width: 100%; 
+   height: auto;
+   margin: 0.5rem;
+   margin-right: 1rem;
+   padding: 1rem 1.5rem 0.5rem 1rem;
+}
+
+.report-from{
+    background-color: #66ebc7;
+    padding: 1rem;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    text-align: center;
+    padding-bottom: 15px;
+    border-radius: 4px ;
+    -webkit-border-radius: 4px ;
+    -moz-border-radius: 4px ;
+    -ms-border-radius: 4px ;
+    -o-border-radius: 4px ;
+}
+.btn-list{
+    margin-left: 1rem;
+}
+.otp-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+.otp-main > input{
+    border: 4px solid gray;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* project-main-div */
+.project-main-div{
+    width: 100vw;
+    height: 100vh;
+
+    padding: 5rem ;
+    background-color: #66ebc7;
+    overflow: auto;
+}
+.project-main-div > input{
+    align-items: center;
+}
+

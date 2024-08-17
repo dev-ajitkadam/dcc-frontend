@@ -1,0 +1,364 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+/* Custom CSS for navbar background color */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.App {
+  background: linear-gradient(to top left, #eceff0, #abd9ef);
+}
+
+::-webkit-scrollbar{
+  width: 100%;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track{
+  background: #e0e0e0;
+}
+
+/* handal */
+::-webkit-scrollbar-thumb{
+  background: #888;
+}
+
+/* Handle on Hover */
+::-webkit-scrollbar-track:hover{
+  background: #555;
+}
+
+
+  #navbar{
+    width: 100%;
+    border: none;
+    
+  }
+
+
+
+  .navbar {
+    width: 100%;
+    
+  }
+
+  .navs{
+    backdrop-filter: blur(8px);
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px  #c0e0f5;
+  }
+
+  
+  /* Custom CSS */
+.navbar-toggle-dark {
+  background-color: #343a40; /* Dark background color */
+  border-color: #343a40;     /* Dark border color */
+}
+
+
+  .borderse{
+    border: 2px solid transparent;
+}
+.borderse:hover{
+    border: 2px solid white;
+}
+
+  .footer{
+    background-color:#222f3d;
+  }
+  .footers{
+    background-color: #37475a;
+  }
+  /* slider */
+  .slider {
+    background-color:#FFBB00;
+  }
+
+  /* home */
+  .bg-custom-colors {
+    background: linear-gradient(to top left, #ffffff ,#ffffff33);
+    backdrop-filter: blur(8px);
+  border-radius: 8px;
+  box-shadow: 2px 2px 5px  #277ab1;
+  }
+  .text-decoration-none {
+    text-decoration: none;
+  }
+  
+
+  .lorn{
+   
+    color: #fff;
+    
+  }
+
+  .oranges{
+    color: #ff5656;
+  }
+
+  .video-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .heroBox{
+    background: linear-gradient(to bottom Right , #1d1717 ,#ffffff33);
+    box-shadow: #877c01;
+    border-radius: 3rem;
+    -webkit-border-radius: 3rem;
+    -moz-border-radius: 3rem;
+    -ms-border-radius: 3rem;
+    -o-border-radius: 3rem;
+}
+.Namecap{
+  color: #ff5656;
+}
+  
+  .background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+
+  }
+  /* Add this to your CSS */
+.cardss {
+  height: 100%;
+  background: linear-gradient(to bottom  , #1d1717 ,#ffffff33);
+}
+.cardss > div {
+  height: 100%;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(to bottom Right , #1d1717 ,#ffffff33);
+}
+.cardss  :hover {
+  color: white;
+  
+}
+
+  
+
+  /* footer */
+ 
+  /* page services */
+  .mach{
+    text-align: center;
+    color: black;
+}
+
+.D1, .D2, .D3 {
+    background-color: #ffffff;
+    color: black;
+}
+
+/* About */
+.form-floating.filled label {
+  opacity: 0;
+  
+}
+
+
+#ab-1{
+  color: white;
+  text-align: center;
+}
+
+.has-text-align-center{
+  text-align: center;
+
+}
+
+.text{
+
+ color: rgb(240, 229, 229);
+   
+}
+.text h2{
+  font-size: 90px;
+  font-weight: 600;
+
+}
+.text h5{
+  font-weight: 500;
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.main{
+background-color: #179178;
+padding: 1rem;
+}
+
+/* login */
+
+
+/*------------ Login container ------------*/
+.box-area{
+  width: 930px;
+}
+/*------------ Right box ------------*/
+.right-box{
+  padding: 40px 30px 40px 40px;
+}
+/*------------ Custom Placeholder ------------*/
+::placeholder{
+  font-size: 16px;
+}
+.rounded-4{
+  border-radius: 20px;
+}
+.rounded-5{
+  border-radius: 30px;
+}
+/*------------ For small screens------------*/
+@media only screen and (max-width: 768px){
+   .box-area{
+      margin: 0 10px;
+   }
+   .left-box{
+      height: 100px;
+      overflow: hidden;
+   }
+   .right-box{
+      padding: 20px;
+   }
+}
+
+/* hover effect Home  */
+
+.cards {
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  font-weight: bold;
+}
+
+.cards:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  text-shadow: black;
+}
+
+.col{
+  margin-bottom: 15px;
+}
+
+
+
+/* *****************************************  /DashBord/  ******************************************* */
+/* sidenav */
+
+.sidebar-closed {
+  width: 0;
+  overflow: hidden;
+  transition: width 0.3s ease;
+}
+
+.sidebar-open {
+  width: 250px;
+  transition: width 0.3s ease;
+}
+
+.sidebar-toggle {
+  cursor: pointer;
+}
+
+.sidebar-content {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .sidebar-closed,
+  .sidebar-toggle.d-md-none {
+    display: none;
+  }
+  
+  .sidebar-open {
+    width: 250px;
+  }
+  .sidebar-content {
+    display: block;
+  }
+}
+
+
+
+@media (max-width: 767px) {
+  .sidebar-closed {
+    width: 0;
+    display: none;
+    transition: width 0.5s ease-in-out;
+    -webkit-transition: width 0.5s ease-in-out;
+    -moz-transition: width 0.5s ease-in-out;
+    -ms-transition: width 0.5s ease-in-out;
+    -o-transition: width 0.5s ease-in-out;
+}
+  .sidebar-open {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100vh;
+    background-color: #343a40;
+    
+  }
+  .p-nav{
+    padding: 2rem;
+  }
+}
+
+.round{
+  border-radius: 0 0 20px 20px;
+  background-color:#EB3678;
+  -webkit-border-radius: 0 0 20px 20px;
+  -moz-border-radius: 0 0 20px 20px;
+  -ms-border-radius: 0 0 20px 20px;
+  -o-border-radius: 0 0 20px 20px;
+}
+
+/* @media (min-width: 767px){
+  .dashnav{ display: none;}
+
+} */
+/* scroll bar for dash div */
+.scrollable-div {
+  width: 100%;
+  height: 100vh; 
+  overflow-y: auto; 
+  overflow-x: hidden;
+}
+.dash {
+  overflow-x: hidden;
+}

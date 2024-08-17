@@ -1,0 +1,15 @@
+
+/* Assigen test page css */
+.form-area{
+    margin: 0.7rem;
+    border: 2px transparent;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: #8f8c8c;
+    padding: 2rem;
+  
+}
+#btn-assign{
+    display: flex;
+    justify-content: center;
+}
