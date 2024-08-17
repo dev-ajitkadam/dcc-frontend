@@ -64,16 +64,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-const accountSid = 'AC4f94f681fb5f096de4c2bcc1bf605f4f';
-const authToken = 'fe51bbb14cf16c0584467604d4b0ba20';
-const client = require('twilio')(accountSid, authToken);
-
-client.verify.v2.services("")
-      .verificationChecks
-      .create({to: '+919309595586', code: '[Code]'})
-      .then(verification_check => console.log(verification_check.status));
