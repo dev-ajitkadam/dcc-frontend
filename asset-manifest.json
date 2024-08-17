@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/test-account-github-1/react-testing/static/css/main.693241c0.css",
-    "main.js": "/test-account-github-1/react-testing/static/js/main.976747e2.js",
-    "static/js/300.b8f89d48.chunk.js": "/test-account-github-1/react-testing/static/js/300.b8f89d48.chunk.js",
-    "static/js/952.b86dc0e3.chunk.js": "/test-account-github-1/react-testing/static/js/952.b86dc0e3.chunk.js",
-    "static/js/856.41a1982d.chunk.js": "/test-account-github-1/react-testing/static/js/856.41a1982d.chunk.js",
-    "static/media/ourService.jpg": "/test-account-github-1/react-testing/static/media/ourService.dbd8446c659c74679f60.jpg",
-    "static/media/qualityAdvantages.jpg": "/test-account-github-1/react-testing/static/media/qualityAdvantages.30d64987008bc7d4fd40.jpg",
-    "static/media/HeroBg.png": "/test-account-github-1/react-testing/static/media/HeroBg.0a1ebd016faf0c9f4314.png",
-    "static/media/quality-work.jpg": "/test-account-github-1/react-testing/static/media/quality-work.ad2c8e5f17f725b6b670.jpg",
-    "static/media/consultancy.jpg": "/test-account-github-1/react-testing/static/media/consultancy.70ad8ad37984a3413ff9.jpg",
-    "static/media/dcc1.png": "/test-account-github-1/react-testing/static/media/dcc1.77fd63ca097e1d397e22.png",
-    "index.html": "/test-account-github-1/react-testing/index.html",
-    "main.693241c0.css.map": "/test-account-github-1/react-testing/static/css/main.693241c0.css.map",
-    "main.976747e2.js.map": "/test-account-github-1/react-testing/static/js/main.976747e2.js.map",
-    "300.b8f89d48.chunk.js.map": "/test-account-github-1/react-testing/static/js/300.b8f89d48.chunk.js.map",
-    "952.b86dc0e3.chunk.js.map": "/test-account-github-1/react-testing/static/js/952.b86dc0e3.chunk.js.map",
-    "856.41a1982d.chunk.js.map": "/test-account-github-1/react-testing/static/js/856.41a1982d.chunk.js.map"
+    "main.css": "/dcc-frontend/static/css/main.693241c0.css",
+    "main.js": "/dcc-frontend/static/js/main.83db3a8a.js",
+    "static/js/300.b8f89d48.chunk.js": "/dcc-frontend/static/js/300.b8f89d48.chunk.js",
+    "static/js/952.b86dc0e3.chunk.js": "/dcc-frontend/static/js/952.b86dc0e3.chunk.js",
+    "static/js/856.41a1982d.chunk.js": "/dcc-frontend/static/js/856.41a1982d.chunk.js",
+    "static/media/ourService.jpg": "/dcc-frontend/static/media/ourService.dbd8446c659c74679f60.jpg",
+    "static/media/qualityAdvantages.jpg": "/dcc-frontend/static/media/qualityAdvantages.30d64987008bc7d4fd40.jpg",
+    "static/media/HeroBg.png": "/dcc-frontend/static/media/HeroBg.0a1ebd016faf0c9f4314.png",
+    "static/media/quality-work.jpg": "/dcc-frontend/static/media/quality-work.ad2c8e5f17f725b6b670.jpg",
+    "static/media/consultancy.jpg": "/dcc-frontend/static/media/consultancy.70ad8ad37984a3413ff9.jpg",
+    "static/media/dcc1.png": "/dcc-frontend/static/media/dcc1.77fd63ca097e1d397e22.png",
+    "index.html": "/dcc-frontend/index.html",
+    "main.693241c0.css.map": "/dcc-frontend/static/css/main.693241c0.css.map",
+    "main.83db3a8a.js.map": "/dcc-frontend/static/js/main.83db3a8a.js.map",
+    "300.b8f89d48.chunk.js.map": "/dcc-frontend/static/js/300.b8f89d48.chunk.js.map",
+    "952.b86dc0e3.chunk.js.map": "/dcc-frontend/static/js/952.b86dc0e3.chunk.js.map",
+    "856.41a1982d.chunk.js.map": "/dcc-frontend/static/js/856.41a1982d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.693241c0.css",
-    "static/js/main.976747e2.js"
+    "static/js/main.83db3a8a.js"
   ]
 }
