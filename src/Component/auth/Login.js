@@ -27,7 +27,7 @@ const LoginForm = () => {
     const email = emailRef.current.value;
     const pass = passRef.current.value;
 
-    const userData = { email, password: pass };
+    const userData = { email, password: pass, role: Role };
 
     axios
       .post(
